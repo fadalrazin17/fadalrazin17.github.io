@@ -10,19 +10,14 @@
 a {
   text-decoration: none;
 }
-.hero {
-  width: 100%;
-  height: 100vh;
-  background: url(/img/bg3.jpg);
-  background-size: cover;
-}
 
 .hero {
   width: 100%;
   height: 100vh;
-  background: url(/Portfolio/img/bg3.jpg);
+  background: url(./img/bg3.jpg);
   background-size: cover;
 }
+
 
 header {
     background-color: #19253b59;
