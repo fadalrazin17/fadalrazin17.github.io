@@ -1,0 +1,43 @@
+Project Title: Fruit Quality Detection System
+
+Introduction:
+
+The Fruit Quality Detection System is a cutting-edge project that leverages machine learning techniques to assess the healthiness of fruits by analyzing images of them. This project was developed collaboratively by a team of three college students, including [Your Name], and it represents an innovative solution to ensure the safety of fruit consumption. The system involves various stages, including image preprocessing, feature extraction, segmentation, and classification.
+
+Project Objectives:
+
+Quality Assessment: Develop a system capable of assessing the quality of fruits to determine if they are healthy for consumption.
+
+Image Processing: Implement image preprocessing techniques to standardize and enhance the quality of input images.
+
+Feature Extraction: Extract relevant features from fruit images using Histogram of Oriented Gradients (HOG) and Gray-Level Co-occurrence Matrix (GLCM).
+
+Segmentation: Utilize region of interest (ROI) methods to detect the shape and edges of fruits.
+
+Classification: Develop a classification model to identify the level of toxicity in fruits, providing information about potential health risks.
+
+Technologies Used:
+
+Hardware: VGA camera with 5-megapixel resolution for image capturing.
+Software: MATLAB, scripting languages, SQL.
+Operating System: 32/64-bit Windows 10 or Windows 11.
+Hardware Requirements: Intel i5 Core 8th Gen processor, 4GB RAM, 125GB HDD (minimum).
+Modules Implementation:
+
+Image Capturing: Images of fruits are captured using a VGA camera with 5-megapixel resolution.
+
+Pre-processing Image: The color captured in the image is converted from binary to gray code to prepare it for further data processing.
+
+Image Segmentation: Image segmentation is applied to identify color variations in the fruits, effectively distinguishing different regions.
+
+Image Classification: A machine learning model is used to classify fruits based on their quality and potential toxicity.
+
+Conclusion:
+
+The Fruit Quality Detection System represents a significant step forward in ensuring the safety and quality of fruits for consumption. By employing advanced image processing and machine learning techniques, this project enables consumers to make informed decisions about the fruits they consume, reducing the risk of health issues related to toxic fruits.
+
+In addition, this system has the potential to support the grading process of various fruits, including haricot beans, which are essential commodities for export in countries like Ethiopia. The project's model for the classification and grading of Ethiopian haricot beans demonstrates its versatility and broader applications in the agricultural sector.
+
+The collaborative effort of the project team, including myself, highlights our dedication to creating practical and impactful solutions that address real-world challenges and promote food safety.
+
+Overall, the Fruit Quality Detection System stands as a testament to the team's technical expertise and their commitment to improving the quality of life through innovative technology solutions.
